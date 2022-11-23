@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+ 
+}
+.spinner-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.btn-add{
+  background-color: blue;
+  border-radius:5px;
+  width:100px;
+  padding: 5px;
+  color:aliceblue;
+  text-align: center;
+  margin-top: 20px;
+
+}
